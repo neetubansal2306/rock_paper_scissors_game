@@ -24,7 +24,7 @@ JavaScript – Game logic and interactivity
 
 📸 Screenshots
 
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/072cd0b3-1739-4003-bb48-745ec9c29b1b" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/072cd0b3-1739-4003-bb48-745ec9c29b1b" />
 
 
 ▶️ How to Play
