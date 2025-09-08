@@ -76,4 +76,7 @@ img {
   .choices {
     margin-top: 10rem;
   }
+  #msg{
+    font-size: 0.5rem;
 }
+
