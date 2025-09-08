@@ -27,6 +27,12 @@ JavaScript – Game logic and interactivity
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/072cd0b3-1739-4003-bb48-745ec9c29b1b" />
 
 
+
+
+💡 “I managed to beat the computer 10 times in a row — now it’s your turn! Let’s see how much luck and strategy you’ve got. Can you beat the computer and break my record? 🎮🔥”
+
+
+
 ▶️ How to Play
 
 Select Rock, Paper, or Scissors
